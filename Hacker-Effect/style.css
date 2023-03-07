@@ -15,8 +15,9 @@ body {
 
 h1:hover {
     padding: 0.5rem 1rem;
-    background-color: azure;
+    background: azure;
     color: #0a0a0a;
     border-radius: 25px;
+    transition: color 0.5s;
 }
 
